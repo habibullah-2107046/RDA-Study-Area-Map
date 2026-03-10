@@ -1,6 +1,6 @@
 # Study Area Map of Rajshahi Development Authority (RDA)
 
-![RDA Study Area Map](RDA_Study_Area_Map.jpg)
+![RDA Study Area Map](StudyAreaMap.jpg)
 
 ## Overview
 
